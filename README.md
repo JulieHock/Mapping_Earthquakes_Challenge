@@ -1,6 +1,5 @@
 # Mapping_Earthquakes_Challenge
-
-Visit the Mapping Earthquakes Challenge results [here](https://juliehock.github.io/Mapping_Earthquakes_Challenge/).  
+  
 
 ## Overview
 
